@@ -76,6 +76,11 @@ export default function Hero() {
         <span className="text-xs tracking-[0.3em] text-white/50">SCROLL</span>
         <div className="w-px h-10 bg-gradient-to-b from-white/50 to-transparent animate-pulse" />
       </div>
+      <div>
+        <li>
+          テストです
+        </li>
+      </div>
     </section>
   )
 }
